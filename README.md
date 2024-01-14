@@ -76,7 +76,7 @@ Name | Badges
 
 
 ### 📊 GitHub Repository Stats:
-<p style="display: flex; justify-content: space-around;">
+<p align="center">
     <a href="https://github.com/anuraghazra/convoychat">
         <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugambi12&langs_count=8&theme=jolly&layout=compact" alt="Top Languages">
     </a>
