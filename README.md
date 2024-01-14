@@ -93,16 +93,6 @@ Name | Badges
 
 ---
 
-<<<<<<< HEAD
-=======
-  #### 2. Machine Learning and Deep Learning Frameworks:
-  <p>
-    <img src="https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/Scipy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy">
-  </p>
->>>>>>> 8f23be2778a03b4c6e46604588e53c9600c95575
 
 ### 📚 My Latest Blogs Feeds:
 
