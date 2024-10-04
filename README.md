@@ -96,10 +96,9 @@ Experienced Software Engineer with over 3 years in full-stack development and da
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Unveiling Data Solutions: Your Ultimate Resource for Navigating the Data Product Wonderland! 🌐🧵📊](https://dev.to/silasmugambi/exploring-data-solutions-your-ultimate-guide-to-navigating-the-data-wonderland-26eo)
-- [SQL for Data Analysis](https://dev.to/silasmugambi/sql-for-data-analysis-32fp)
-- [Unlocking Success: Using Key Performance Indicators (KPIs) to Measure What Matters Most](https://dev.to/silasmugambi/kpi-examples-measure-what-matters-the-most-and-really-impacts-your-success-2b9i)
+- [SQL for data analysis](https://dev.to/silasmugambi/sql-for-data-analysis-32fp)
+- [Unlocking Success: Using Key Performance Indicators &lpar;KPIs&rpar; to Measure What Matters Most - Examples Included!](https://dev.to/silasmugambi/kpi-examples-measure-what-matters-the-most-and-really-impacts-your-success-2b9i)
 - [A Comprehensive Guide to Learning Data Analysis](https://dev.to/silasmugambi/a-comprehensive-guide-to-learning-data-analysis-4dl3)
 - [The Science of Happiness: How to Boost Your Mood and Live Your Best Life](https://dev.to/silasmugambi/the-science-of-happiness-how-to-boost-your-mood-and-live-your-best-life-12bh)
 <!-- BLOG-POST-LIST:END -->
